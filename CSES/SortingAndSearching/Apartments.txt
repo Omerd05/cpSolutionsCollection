@@ -1,0 +1,2 @@
+There are n applicants and m free apartments. Your task is to distribute the apartments so that as many applicants as possible will get an apartment.
+Each applicant has a desired apartment size, and they will accept any apartment whose size is close enough to the desired size.

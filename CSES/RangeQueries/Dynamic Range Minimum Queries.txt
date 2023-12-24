@@ -1,0 +1,4 @@
+Given an array of n integers, your task is to process q queries of the following types:
+
+update the value at position k to u
+what is the minimum value in range [a,b]?

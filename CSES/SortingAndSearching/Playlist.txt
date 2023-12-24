@@ -1,0 +1,2 @@
+You are given a playlist of a radio station since its establishment. The playlist has a total of n songs.
+What is the longest sequence of successive songs where each song is unique?

@@ -1,0 +1,1 @@
+You are given a list consisting of n integers. Your task is to remove elements from the list at given positions, and report the removed elements.

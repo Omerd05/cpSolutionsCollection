@@ -1,0 +1,6 @@
+You are going to travel from Syrjälä to Lehmälä by plane. You would like to find answers to the following questions:
+
+what is the minimum price of such a route?
+how many minimum-price routes are there? (modulo 10^9+7)
+what is the minimum number of flights in a minimum-price route?
+what is the maximum number of flights in a minimum-price route?

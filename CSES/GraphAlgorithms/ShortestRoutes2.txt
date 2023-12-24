@@ -1,0 +1,1 @@
+There are n cities and m roads between them. Your task is to process q queries where you have to determine the length of the shortest route between two given cities.

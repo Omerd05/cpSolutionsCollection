@@ -1,0 +1,2 @@
+Given n ranges, your task is to determine for each range if it contains some other range and if some other range contains it.
+Range [a,b] contains range [c,d] if a \le c and d \le b.

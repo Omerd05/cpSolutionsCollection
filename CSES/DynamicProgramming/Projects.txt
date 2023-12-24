@@ -1,0 +1,2 @@
+There are n projects you can attend. For each project, you know its starting and ending days and the amount of money you would get as reward. You can only attend one project during a day.
+What is the maximum amount of money you can earn?

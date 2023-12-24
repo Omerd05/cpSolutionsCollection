@@ -1,0 +1,3 @@
+There are n children who want to go to a Ferris wheel, and your task is to find a gondola for each child.
+Each gondola may have one or two children in it, and in addition, the total weight in a gondola may not exceed x. You know the weight of every child.
+What is the minimum number of gondolas needed for the children?

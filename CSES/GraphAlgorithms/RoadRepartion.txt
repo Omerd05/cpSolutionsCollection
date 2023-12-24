@@ -1,0 +1,2 @@
+There are n cities and m roads between them. Unfortunately, the condition of the roads is so poor that they cannot be used. Your task is to repair some of the roads so that there will be a decent route between any two cities.
+For each road, you know its reparation cost, and you should find a solution where the total cost is as small as possible.

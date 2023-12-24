@@ -1,0 +1,1 @@
+Given an array of n positive integers, your task is to count the number of subarrays having sum x.

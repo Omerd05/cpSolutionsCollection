@@ -1,0 +1,1 @@
+A company has n employees with certain salaries. Your task is to keep track of the salaries and process queries.
