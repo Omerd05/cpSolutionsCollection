@@ -1,1 +1,1 @@
-My solutions collection to various competitive programming problems i've faced in codeforces, cses, usaco, and leetcode. 
+A compilation of my solutions to various competitive programming problems from platforms like Codeforces, CSES, USACO, and LeetCode.
